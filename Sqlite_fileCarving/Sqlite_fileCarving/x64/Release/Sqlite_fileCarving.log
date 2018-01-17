@@ -1,0 +1,88 @@
+﻿  CarvingInfo.cpp
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(10): error C2061: 구문 오류: 식별자 'DB_header'
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2065: 'node_header': 선언되지 않은 식별자입니다.
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2065: 'page1_header': 선언되지 않은 식별자입니다.
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2275: 'uint64_t': 이 형식을 식으로 잘못 사용했습니다.
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(24): note: 'uint64_t' 선언을 참조하십시오.
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2146: 구문 오류: ')'이(가) 'offset' 식별자 앞에 없습니다.
+CarvingInfo.cpp(22): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Page1_Analyzer.cpp
+Page1_Analyzer.cpp(12): warning C4244: '=': 'unsigned __int64'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(13): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(14): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(15): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(16): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(17): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(18): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(42): warning C4244: '초기화 중': 'unsigned __int64'에서 'byte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(48): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(49): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(50): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(51): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(65): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(66): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(67): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(68): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(69): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(78): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Page1_Analyzer.cpp(83): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(87): warning C4244: '초기화 중': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(88): warning C4244: '초기화 중': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(99): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+Page1_Analyzer.cpp(115): warning C4244: '초기화 중': 'unsigned __int64'에서 'byte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(122): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(123): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(124): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(125): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Page1_Analyzer.cpp(139): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(142): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(153): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(162): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Page1_Analyzer.cpp(208): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(215): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(235): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(236): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(237): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(238): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(239): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(248): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Page1_Analyzer.cpp(253): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(256): warning C4244: '초기화 중': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(257): warning C4244: '초기화 중': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(268): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(369): warning C4129: ' ': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+Page1_Analyzer.cpp(312): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(312): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+Page1_Analyzer.cpp(316): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(316): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+Page1_Analyzer.cpp(320): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(320): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+Page1_Analyzer.cpp(324): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(324): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+Page1_Analyzer.cpp(328): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(328): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+Page1_Analyzer.cpp(332): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(332): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+Page1_Analyzer.cpp(336): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(336): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+Page1_Analyzer.cpp(340): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(340): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+Page1_Analyzer.cpp(346): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  Page1_Analyzer.cpp(346): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+Page1_Analyzer.cpp(389): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Page1_Analyzer.cpp(395): warning C4244: '=': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Page1_Analyzer.cpp(408): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(417): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Page1_Analyzer.cpp(469): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+Page1_Analyzer.cpp(576): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(10): error C2061: 구문 오류: 식별자 'DB_header'
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2065: 'node_header': 선언되지 않은 식별자입니다.
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2065: 'page1_header': 선언되지 않은 식별자입니다.
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2275: 'uint64_t': 이 형식을 식으로 잘못 사용했습니다.
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\stdint.h(24): note: 'uint64_t' 선언을 참조하십시오.
+c:\users\정현수\documents\visual studio 2017\projects\졸업작품\sqlite_filecarving\sqlite_filecarving\Page1_Analyzer.h(11): error C2146: 구문 오류: ')'이(가) 'offset' 식별자 앞에 없습니다.
+main.cpp(38): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
